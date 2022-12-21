@@ -101,7 +101,7 @@ To get a local copy up and running, follow these steps.
 ### Setup
 
 #### Github
-- Enter this url: [https://github.com/developerwaleed/final-capstone-front-end/](https://github.com/developerwaleed/final-capstone-front-end/) in your web browser.
+- Enter this url: [https://github.com/developerwaleed/final-capstone-front-end/](https://github.com/abdulhamiid/final-capstone-front-end/) in your web browser.
 - Once opened navigate to the top left level of the project a green code download button will be visible on the righthand side.
 - Select the download Zip option from drop-down menu.
 - Once the download is complete you will be able to access my project locally.
