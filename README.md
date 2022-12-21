@@ -109,7 +109,7 @@ To get a local copy up and running, follow these steps.
 #### Local (Terminal)
 
 ```sh
-  git clone github.com/OkoyeCharles/final-capstone-front-end/.git
+  git clone github.com/abdulhamiid/final-capstone-front-end/.git
   cd final-capstone-front-end
 ```
 
@@ -154,7 +154,7 @@ You can deploy this project using:
 |Okoye Charles|[@Okoyecharles](https://github.com/OkoyeCharles)|[@Okoyecharles_](https://twitter.com/OkoyeCharles_)|[@Okoye Charles](https://www.linkedin.com/in/charles-k-okoye/)|
 |Sidney Kaguli|[@xSidx](https://github.com/xSidx)|[@_sid_o](https://twitter.com/_sid_o)|[@sidney-kaguli](https://www.linkedin.com/in/sidney-kaguli/)|
 |Priscilla Oyebade|[@OyePriscilla](https://github.com/OyePriscilla)|[@Prisicilla](https://twitter.com/Prisicilla)|[@Priscilla Oyebade](https://www.linkedin.com/in/priscilla-oyebade-aa35b8238/)|
-|Abdulhamid|[Abdulhamid](https://github.com/abdulhamiid)|[@abdulhamid_adio](https://twitter.com/abdulhamid_adio)|[@Abdulhamid Adio](https://www.linkedin.com/in/abdulhamid-adio/)|
+|Abdulhamid Adio|[Abdulhamid](https://github.com/abdulhamiid)|[@abdulhamid_adio](https://twitter.com/abdulhamid_adio)|[@Abdulhamid Adio](https://www.linkedin.com/in/abdulhamid-adio/)|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
